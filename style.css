@@ -1,0 +1,25 @@
+body
+{background-color: #93B1A6;    
+}
+h1{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.heading{height: 50px;
+background-color: #5C8374;
+
+
+}
+a:link{color:blanchedalmond;
+}
+a:visited{color:black}
+a:hover{color:#183D3D;
+}
+
+.frontpage{width: 1325px;}
+
+.navbar{position: relative;
+top: 15px;
+justify-content: space-evenly;
+display:flex;
+flex-direction: row;
+justify-content:space-evenly;}
+
+
